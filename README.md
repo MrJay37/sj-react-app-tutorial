@@ -20,3 +20,10 @@
 ## Exercise 1
 1. Add a header to the web page (h1 tag) that says 'Welcome to my website'
 2. Add a paragraph to the webpage (p tag) and put something about yourself there
+
+# Exercise 2
+1. Make a file called `datacard.js`
+2. Create a component that takes `title` and `body` props
+3. Return react component from the file
+4. Import component in `index.js`
+5. Render component using an array of data
