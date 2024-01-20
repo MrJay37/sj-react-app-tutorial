@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import DataCard from './DataCard'
+import Counter from './Counter'
 
 const content = [
   {
@@ -48,7 +49,7 @@ const Home = () => <div>
    * content.map((article, idx) => <DataCard key={idx} {...article}/>)
    * 
    * */}
-  
+  {<Counter />}
 </div>
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

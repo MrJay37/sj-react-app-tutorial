@@ -20,3 +20,9 @@
 ## Exercise 1
 1. Add a header to the web page (h1 tag) that says 'Welcome to my website'
 2. Add a paragraph to the webpage (p tag) and put something about yourself there
+
+## Exercise 2
+1. Add a counter to your website
+2. Add an input tag in your website that decides how much in increase/decrease
+3. Add a increase button and a decrease button
+4. Add a reset button
